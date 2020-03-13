@@ -1,0 +1,200 @@
+﻿PL_CATEGORY,DESCRIPTION,PrevBal,CrBal,DBBal,ClosingBal,PRODUCT_CATEGORY,Currency,IECategory
+50001,Interest Expense (1) CALL Deposits,0,0,-130070476.8,-1426202573,6100,MMK,Ex
+50001,Interest Expense (1) Fixed Deposits,0,28436574.9,-2375151405,-28934424199,6600,MMK,Ex
+50001,Interest Expense (1) Savings Ac,0,51241.33,-25568889.75,-13143397432,6000,MMK,Ex
+50002,Exp.Interest on Borrowing Interbank,0,0,-35115835.33,-249253740.5,,MMK,Ex
+50004,Expd.Int.onBorrowing(IFC)(MMK),0,0,0,-728458888.9,,MMK,Ex
+51001,Interest Income (1) Loans,0,3266531619,-89378878.34,37175520958,3000,MMK,Income
+51001,Interest Income (1) Overdraft,0,279011913.5,-9063049.66,4465807718,1011,MMK,Income
+51004,Inc.A/C Investments,0,5782191.78,0,5608952675,,MMK,Income
+51005,Interest Income Penalties,0,241184926,-141096759.9,2004369805,3300,MMK,Income
+51007,Unutilised OD Int,0,213931.92,0,220616016.7,,MMK,Income
+51011,Inc. Dep. with other bank(MMK),0,6372094.6,0,1064033219,,MMK,Income
+51015,Int on Others Finance A/c,0,11634165.63,0,638594747.3,,USD,Income
+51020,Account Closing Charges,0,3359,0,26404.8,,EUR,Income
+51020,Account Closing Charges,0,0,0,53573,,MMK,Income
+51020,Account Closing Charges,0,8142245.45,0,167280983.4,,USD,Income
+51027,Inc.Interest on Interbank Lending,0,208670.24,0,1465231337,,MMK,Income
+52002,Cheque Stop payment Charges,0,0,0,-1450,,MMK,Ex
+52003,Cheque Issue Charges,0,0,0,4000,,MMK,Income
+52005,Transaction Charges on E-Money Ser,0,0,0,45653267,,MMK,Income
+52020,Card Charges,0,0,0,7993147.8,,MMK,Income
+52021,Comm.on Visa & Master POS A/C,0,0,0,42139356.18,,MMK,Income
+52052,Teller Cash Chgs,0,5053.56,0,172977.24,,MMK,Income
+52052,Teller Cash Chgs,0,1106.8,0,12300.2,,SGD,Income
+52052,Teller Cash Chgs,0,694468.97,0,6924363.27,,USD,Income
+52101,Demand Draft Commission,0,1896623.02,0,30097037.45,,MMK,Income
+52105,Outward SWIFT Charge,0,5100.9,0,108975.9,,EUR,Income
+52105,Outward SWIFT Charge,0,4599.3,0,44665.8,,MMK,Income
+52105,Outward SWIFT Charge,0,680561.7,0,7130209.2,,USD,Income
+52107,Outward Remittance,0,42507.5,0,1008428.77,,EUR,Income
+52107,Outward Remittance,0,38327.5,0,398085.3,,MMK,Income
+52107,Outward Remittance,0,16676984.61,0,218101410.8,,USD,Income
+52110,Inward Remittance,0,705020,0,10558460,,USD,Income
+52112,Comm.on Remit.(Internal Banks),0,13132278.06,-325,190685966.8,,MMK,Income
+52113,Comm.on Remit.(Other banks) ,0,3644895.63,-3048.5,61712752.01,,MMK,Income
+52115,Commission on Linked Ac,0,195500,0,2192000,,MMK,Income
+52116,Inc. F & S Chgs.on Bills,0,1779453.46,0,48536036.59,,MMK,Income
+52117,Inc. Routing Fees(VISA) A/C,0,89926.08,0,4050923.8,,MMK,Income
+52118,Inc. Routing Fees(UPI) A/C,0,0,0,6252.6,,MMK,Income
+52121,Inc.(LateFees for installment),0,120000,0,1785000,,MMK,Income
+52122,Inc. Card Fees(MMK),0,0,0,137862,,MMK,Income
+52125,Inc. Service Charges (UPI) POS,0,13948.88,0,895347.81,,MMK,Income
+52126,Inc. Service Charges (JCB) ATM,0,0,0,9684.53,,MMK,Income
+52127,Inc. Service Charges (JCB) POS,0,0,0,58389.28,,MMK,Income
+52128,Inc. Services Charges (VISA),0,850000,0,20235000,,MMK,Income
+52129,Inc. F & S Chgs.on Credit Card,0,12297311.75,-192355,236747234,,MMK,Income
+52130,Inc. (LateChgs.on installment),0,65735,0,657613,,MMK,Income
+52131,Inc. Services Charges (Master),0,225000,0,9355000,,MMK,Income
+52132,Inc. Routing Fees (Master),0,80092.27,0,2492475.53,,MMK,Income
+52133,Inc. Service Charges on Card,0,0,0,26781689.66,,MMK,Income
+52134,Inc. Card Renewal Fees,0,69000,0,510000,,MMK,Income
+52137,Inc. FeesChgs.on W.U.Money Tr.,0,3679577.67,0,49139337.35,,MMK,Income
+52138,Inc. Service Charges on HP.,0,15016666.67,0,380569524.2,,MMK,Income
+52139,Inc. Penalty Fees,0,0,0,132,,MMK,Income
+52140,Inc A/C Ext Fees For Loan Maturity,0,13539600,0,183078850.3,,MMK,Income
+52141,Inc Reimbursement FeesUPI(POS),0,373615.88,0,4623939.52,,MMK,Income
+52142,Inc. Cash Advance Fees (UPI),0,130400,0,3003148.84,,MMK,Income
+52143,Inc. Make-Up Fees (UPI),0,790223.66,0,10616486.48,,MMK,Income
+52144,Inc.A/C Int. on Credit Card,0,3502.65,0,153437212.6,,MMK,Income
+52147,Inc.Comm for Bancassurance IKBZ,0,101425.4,0,146960.6,,MMK,Income
+52251,Charge Inc from Retail Loans AA,0,252518069.4,0,4286863626,,MMK,Income
+52305,LC Opening Commission,0,2933107.74,0,48883512.91,,USD,Income
+52310,LC Discrepancy Commission,0,459756,0,3760386,,USD,Income
+52317,LC Transfer Charges,0,0,0,268.56,,MMK,Income
+52345,LC SWIFT Commission Ac,0,0,0,22688.1,,MMK,Income
+52345,LC SWIFT Commission Ac,0,59794.5,0,1023532.5,,USD,Income
+52638,Inc. Rental Charges,0,174262890,0,4562500282,,MMK,Income
+53000,A/L Revaluation Profit,0,20450.88,0,159932.79,,CNY,Income
+53000,A/L Revaluation Profit,0,7380865.88,0,151620307.9,,EUR,Income
+53000,A/L Revaluation Profit,0,36712.6,0,999221.2,,JPY,Income
+53000,A/L Revaluation Profit,0,4584691.42,0,134224674.3,,SGD,Income
+53000,A/L Revaluation Profit,0,940953.96,0,43282772.04,,THB,Income
+53000,A/L Revaluation Profit,0,12040380.39,0,981942123.6,,USD,Income
+53003,A/L Revaluation Loss,0,0,-9497.53,-204786.06,,CNY,Ex
+53003,A/L Revaluation Loss,0,0,-3819375.03,-181189592.2,,EUR,Ex
+53003,A/L Revaluation Loss,0,0,-59059.4,-951335.2,,JPY,Ex
+53003,A/L Revaluation Loss,0,0,-6000,-158000,,MMK,Ex
+53003,A/L Revaluation Loss,0,0,-1851945.33,-115944752.1,,SGD,Ex
+53003,A/L Revaluation Loss,0,0,-363819.85,-41393188.5,,THB,Ex
+53003,A/L Revaluation Loss,0,0,-12322596.87,-1331153585,,USD,Ex
+53006,Market Exchange Profit,0,7419161.23,-51132,534295830.3,,MMK,Income
+53008,Market Exchange Loss,0,0,-3663180.35,-280209833.5,,MMK,Ex
+53010,Expd. Loss on Exchange(WU),0,0,-14164.74,-11936378.73,,MMK,Ex
+53552,Inc. Ex.Profit from W.U Trans.,0,2604436.85,0,40424529.42,,MMK,Income
+53554,Inc. FXSpread on W.U.MoneyTr. ,0,3235161.65,0,33238020.73,,MMK,Income
+53555,Inc. Profit on Exchange(VISA) ,0,110958.94,0,-1103095.96,,MMK,Ex
+53556,Inc. Profit on Exchange (UPI) ,0,60766.14,-6333.03,1728852.73,,MMK,Income
+53557,Inc. Profit on Exchange (JCB),0,0,0,-48334.56,,MMK,Ex
+53558,Inc. Profit onExchange(Master),0,19621.39,-134.98,-1679029.05,,MMK,Ex
+53559,Inc. Profit on Interbank FX Trading,0,37750234.85,0,2798228613,,MMK,Income
+54015,Loan Loss Provn -Clients-SubStandd,0,0,0,-461809.91,,MMK,Ex
+55110,Dividend Income,0,0,0,891000000,,MMK,Income
+55301,Inc. Other Transactions,0,100190439.3,0,1041315241,,MMK,Income
+55302,Inc. Miscellaneous receipts,0,9695194.61,-3000,207080468.1,,MMK,Income
+55303,Inc. Other Income,0,0,0,12582865.58,,MMK,Income
+55304,Inc. Misc. Trustees Services,0,11417087,0,106396076.2,,MMK,Income
+60010,Expd. Pay & Allowances,0,26667,-362441101,-5514422534,,MMK,Ex
+60011,Expd. Wages,0,0,-70000,-2361899,,MMK,Ex
+60060,ExpditureA/CBonus&GratuitiesA/C,0,0,0,-11300000,,MMK,Ex
+60062,ExpditureA/CTrustFundforStipendsA/C,0,0,0,-6000000,,MMK,Ex
+60063,ExpditureA/CEntertainmentExpenseA/C,0,0,-109900,-34836450,,MMK,Ex
+60064,Reward To Outstanding Employee A/C ,0,0,0,-400000,,MMK,Ex
+60101,ExpditureA/CLeaveSalaryContribution,0,0,0,-18857900,,MMK,Ex
+60102,ExpA/CSocialSecurityContribution,0,0,-6069180,-76051456,,MMK,Ex
+60103,ExpA/CProvidentFundContribution,0,0,-3548445,-45580930,,MMK,Ex
+60111,Staff Recreation Expense Ac,0,0,0,-40116050,,MMK,Ex
+60112,Expenditure A/C Staff Welfare A/C,0,0,0,-11640429.4,,MMK,Ex
+61001,Expenditure A/C Building rent,0,0,-19529700,-431214710,,MMK,Ex
+61002,Expenditure A/C Godown rent,0,0,-25000,-930000,,MMK,Ex
+61003,ExpA/CRentexpforMach&OffEquipment,0,0,0,-540000,,MMK,Ex
+61004,ExpA/CRentexpforoffCars&MotorCycles,0,0,0,-80000,,MMK,Ex
+61051,ExpA/CBuildingsLeasedbythebank,0,0,-1703360,-18878470,,MMK,Ex
+61052,ExpA/CBldownedbytheBk(contract),0,0,0,-10491963,,MMK,Ex
+61053,ExpA/CBldownedbytheBk(Material),0,0,-2474690,-56149348,,MMK,Ex
+61054,ExpditureA/CBldownedbytheBk(Labur),0,0,-743712,-14308319,,MMK,Ex
+61055,ExpditureA/CFurniture&Fixtures,0,0,-261500,-7489030,,MMK,Ex
+61056,ExpA/CMachinery&OfficeEquipment,0,0,-5088662.26,-69802325.08,,MMK,Ex
+61057,ExpA/CComputer&OtherAccessories,0,0,-439800,-10628687,,MMK,Ex
+61058,ExpditureA/COfficeCars&MotorCycle,0,0,-1965800,-48044608,,MMK,Ex
+61061,ExpA/CElectrialMaint(Material),0,0,-1331500,-9487840,,MMK,Ex
+61077,ExpA/CBldownedbythebk(Renovation),0,0,0,-17494120,,MMK,Ex
+61078,ExpA/CBldleasedbythebk(Renovat),0,0,0,-572500,,MMK,Ex
+62001,Expenditure A/C Other Allowances,0,0,0,-3602000,,MMK,Ex
+62004,ExpditureA/CTechnicalAllowances,0,0,-17686107,-236020733,,MMK,Ex
+62006,Expenditure Charge Allowance,0,0,-254516,-4001921.66,,MMK,Ex
+62051,ExpA/CPostage_Telephone&Telegram,0,0,-1369372,-257051855.6,,MMK,Ex
+62052,Expenditure A/C Telex / Fax,0,0,0,-235901,,MMK,Ex
+62054,Expenditure A/C Courier Services,0,0,0,-183620,,MMK,Ex
+62055,ExpA/CTelecom&Postageexp(Oth),0,0,-35000,-5583558,,MMK,Ex
+62056,ExpA/CITConnections(Networking),0,0,0,-4544939.02,,MMK,Ex
+62071,Expd. Transport Expenses,0,0,-2395247,-65625854.11,,MMK,Ex
+62072,Travelling Expenses,0,0,-3315063,-80679613,,MMK,Ex
+62101,Expenditure A/C Office Stationery,0,94000,-2535085,-44554952,,MMK,Ex
+62102,Expenditure A/C Office Supplies,0,0,-2460398,-75036049.2,,MMK,Ex
+62103,Expenditure A/CElectrical Supplies,0,0,-393680,-25791046,,MMK,Ex
+62104,Expenditure A/C Printing,0,0,-339400,-29877807.5,,MMK,Ex
+62105,Expenditure A/C Computer Supplies,0,0,-791300,-27145734.8,,MMK,Ex
+62221,Legal Fees,0,0,-12000,-4857000,,MMK,Ex
+62222,Expenditure A/C Auditors Fees,0,0,-150000,-31958500,,MMK,Ex
+62231,Registration& Licenses Fees,0,0,-20771210,-81671980,,MMK,Ex
+62241,Assessors Fees,0,0,0,-150000,,MMK,Ex
+62251,Expenditure A/C Lighting & Power,0,101660,-663125,-160060485,,MMK,Ex
+62252,Expenditure A/C YCDC Taxes,0,0,-1587950,-26303675.05,,MMK,Ex
+62253,Expenditure A/C Income Taxes,0,0,0,-16580389,,MMK,Ex
+62254,ExpditureA/CRates&TaxesOthers,0,0,-485400,-36395650.23,,MMK,Ex
+62261,ExpditureA/CInsurancesforBuilding,0,0,-1572316.32,-13529096.65,,MMK,Ex
+62262,ExpA/CInsurforFurniture&Fixture,0,0,-189761.59,-1282720.2,,MMK,Ex
+62263,ExpA/CInsurforMach&offEquipment,0,0,-601813.68,-6502413.47,,MMK,Ex
+62264,ExpA/CInsurforComp&OtherAccessories,0,0,-397160.71,-4535636.1,,MMK,Ex
+62265,ExpA/CInsurforoffCars&MotorCycle,0,0,-526447.36,-6794319.53,,MMK,Ex
+62266,ExpditureA/CInsuranceExpense(other),0,0,-3767242.81,-53595845.9,,MMK,Ex
+62281,ExpA/ConConsulAdv&TechAssistSerA/C,0,0,-2517742,-1205726643,,MMK,Ex
+62303,ExpA/CConnectedwithComptSoftFees,0,0,-74383116.33,-986570194.7,,MMK,Ex
+62304,ExpditureA/CHonoforDirtLectforTrain,0,14500000,-16330000,-244814397.3,,MMK,Ex
+62305,Employee Training & Meeting,0,0,-779000,-10224740,,MMK,Ex
+62306,Expnd fees and OtherItems,0,0,-2309499,-68312452.45,,MMK,Ex
+62307,ExpA/CFees&ServiceChargesA/C(IFC),0,0,0,-7637000,,MMK,Ex
+62308,ExpA/CBankChargesforIFCtransA/C,0,0,0,-33929.72,,MMK,Ex
+62326,ExpA/CFees&ServiceCharges(VISA),0,0,0,-114546814,,MMK,Ex
+62327,ExpA/CFees&ServiceCharges(Master),0,0,-1589338.08,-135430309.5,,MMK,Ex
+62328,ExpA/CBankChargesForVISATransaction,0,0,-91986,-852855.99,,MMK,Ex
+62332,ExpA/CFees&ServiceCharges(MPU),0,0,-635,-12669,,MMK,Ex
+62333,Expd. F&S for UPI,0,0,-165206.33,-2495705.2,,MMK,Ex
+62334,Expd A/C Reimburse Chgs on UPI(ATM),0,0,-383.23,-97629.73,,MMK,Ex
+62335,F&S Charges (UPI) Settlement A/C,0,0,-257538.4,-4579110.4,,MMK,Ex
+62352,Expenditure A/C Annual meeting,0,0,0,-4994525,,MMK,Ex
+62354,ExpA/CBooks_Newspapers&Megazines,0,0,-433525,-6827580,,MMK,Ex
+62355,Advertising Expenses,0,0,-1017765.2,-41220982.6,,MMK,Ex
+62356,ExpditureA/CMarketing&Promotion,0,0,-225800,-120129658.9,,MMK,Ex
+62357,ExpenditutrA/CEntertainmentexp(off),0,0,-6924560,-164399524.8,,MMK,Ex
+62359,Expenditure A/C Handling charges,0,0,-668000,-2937070,,MMK,Ex
+62360,Uniform Expenses,0,0,0,-135700871.5,,MMK,Ex
+62361,ExpditureA/CMiscellaneousOtheritems,0,0,-1149000,-37208914.89,,MMK,Ex
+62362,Expenditure A/C Donations:,0,0,-756200,-37803435,,MMK,Ex
+62364,ExpditureA/CDiscOnTreasuryBills,0,0,0,-219823100,,MMK,Ex
+62365,ExpditureA/CExpensesforOpeningNewBr,0,0,0,-1230250,,MMK,Ex
+62366,ExpA/CP.O.L(OffCar&MotorCycle),0,0,-4689792,-118450749,,MMK,Ex
+62367,Expenditure A/C P.O.L (Generators),0,0,-1906200,-40858853,,MMK,Ex
+62401,ExpA/CBankComm&ServiceCharges(MMK),0,500,-1034012.86,-15910187.7,,MMK,Ex
+62402,ExpA/CCommissionBankCharges(USD),0,0,0,-115390.72,,MMK,Ex
+62402,ExpA/CCommissionBankCharges(USD),0,0,-61330.5,-8953152.2,,USD,Ex
+62403,ExpA/CCommissionBankCharges(Euro),0,0,-150831,-2440218.71,,EUR,Ex
+63056,Prft on FX CCY Exch(CBM Adj),0,0,0,439461.4,,MMK,Income
+63058,Loss on FX CCY Exch(CBM Adj),0,0,0,-756427.8,,MMK,Ex
+63059,Expd. Losses on Interbank FX Tradin,0,0,-10505000,-1540388694,,MMK,Ex
+64605,ExpenditureA/C Furniture & Fixture,0,0,0,-18710689.23,,MMK,Ex
+64610,ExpA/CMachinery&OfficeEquipment,0,0,0,-217237638.9,,MMK,Ex
+64615,ExpA/CComputer&Otheraccessories,0,0,0,-256244281.7,,MMK,Ex
+64620,ExpA/COfficecars&MotorCycleA/c,0,0,0,-131334614.4,,MMK,Ex
+64625,Expenditure A/C Land & Building,0,0,0,-58284173.2,,MMK,Ex
+64626,Expd. Depre for Investment Property,0,0,0,-8086898.25,,MMK,Ex
+64630,ExpA/CIntangibleAssets(Software),0,0,0,-384829760.9,,MMK,Ex
+64631,Amortisation(Lease-hold improvement,0,0,0,-13086620,,MMK,Ex
+64633,Amortisation (Leasehold Land) A/C,0,0,0,-8029500,,MMK,Ex
+65503,Bad Debts - Written Off,0,0,0,-2506002.18,,MMK,Ex
+65504,Expd.Bad & Doubtful Debt (Card),0,0,0,-56840156,,MMK,Ex
+65505,Expd.Bad & Doubtful Debt(Loan Provi,0,167680000,-167680000,-8350000,,MMK,Ex
+66020,Inc. Disposal of Fixed Asset,0,4235374,0,4235374,,MMK,Income
+66520,Loss from sale of fixed assets,0,0,0,-357500,,MMK,Ex
+99999,Net Profit / Loss :-,0,0,0,9894035855,NULL,MMK,NET
